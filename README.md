@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarah Edna but call me Dyna
-- 👀 I’m interested in game dev and machine learning 
-- 🌱 I’m currently learning statistics at UPM in my second year
+- 👀 I’m interested in data analytics and machine learning 
+- 🌱 I’m currently learning statistics at UPM in my third year
 - 💞️ I’m looking to collaborate on work in the future!
 - 📫 You may reach me at my email sarahedyna@gmail.com 
 
